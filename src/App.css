@@ -1,0 +1,28 @@
+#root {
+  text-align: center;
+}
+
+.white {
+  color: white;
+}
+
+.light-button {
+  background-color: white;
+  color: black;
+}
+
+.dark-button {
+  background-color: black;
+  color: white;
+}
+
+button {
+  font-size: 25px;
+  padding: 10px 24px;
+  border-radius: 20px;
+  outline:none;
+  border: none;
+}
+
+
+
